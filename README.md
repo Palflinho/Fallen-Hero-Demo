@@ -46,7 +46,7 @@ The full game adds the Fire, Wind and Earth Temples, the Savior's Sanctuary, 16 
 | Move | WASD / Arrows | Left stick / D-Pad |
 | Attack | Z | A / Cross |
 | Elemental Power (full Essence) | Hold Z, release | Hold A, release |
-| Defend / Special | X / Space | X / Square |
+| Defend / Special | X / K | X / Square |
 | Hero sheet & talents / Pause | T / Esc | Start |
 | Options (while paused) | O | R1 |
 | Portal: choose talent / start run | Z / Space | A / Start |
