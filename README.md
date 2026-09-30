@@ -28,8 +28,8 @@ The full game adds the Fire, Wind and Earth Temples, the Savior's Sanctuary, 16 
 
 | Hero | Class | Playstyle |
 |---|---|---|
-| **Rhino** | Knight | Tank. Blocks attacks with a shield and can stop charging enemies. |
-| **Fox** | Mage | Control and artillery. Interrupts enemy spells and channels. |
+| **Armadillo** | Knight | Tank. Blocks attacks with a shield and can stop charging enemies. |
+| **Maned Wolf** | Mage | Control and artillery. Interrupts enemy spells and channels. |
 | **Tegu Lizard** | Archer | Precision at range. Shoots down flying enemies. |
 | **Urutau** | Assassin | Stealth and critical hits from behind. |
 
