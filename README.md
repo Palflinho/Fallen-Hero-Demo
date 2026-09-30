@@ -13,10 +13,10 @@
 The demo covers the **whole Water Temple**, from the village to its boss:
 
 1. **Underground Village.** Pick your hero, buy talents with the gold you bring back, and choose 3 starting talents at the portal. You can also practice on the training dummies.
-2. **Two labyrinths.** Generated on the spot for each run. Step on the 4 ancient seals to open the exit.
+2. **Two labyrinths.** Generated on the spot for each run, 12 to 15 rooms under a fog of war. Open the exit with the 4 ancient seals or a water puzzle, and find the Map, Compass, Radar or Lens along the way.
 3. **Mini-boss:** the Temple Golem and its escort.
 4. **Merchant:** potions, stat upgrades and talents.
-5. **Third labyrinth,** where spellcasters and totems join the fight.
+5. **Third labyrinth,** where spellcasters and totems join the fight, and a water mob may run off with the exit key.
 6. **Arena:** enemy waves, then Undine, the Water Spirit.
 7. **Boss: the Water General.** Hit his ice orb back at him until he freezes, then strike.
 
@@ -36,6 +36,7 @@ The full game adds the Fire, Wind and Earth Temples, the Savior's Sanctuary, 16 
 ## How it plays
 
 - **Readable combat.** Every enemy telegraphs its attack with a "!", a closing ring and an arrow. When the ring turns white, block or dodge for a perfect defense.
+- **3-hit combo.** Attack in rhythm; the 3rd hit is a finisher with your class and element effect.
 - **Elemental Power.** Hitting, blocking and dodging fill your Essence bar, and perfect blocks and dodges fill it faster. When it's full, **hold attack** to charge a large area attack, then release.
 - **Talents.** 5 slots per run: 3 you pick before leaving and 2 you find along the way. You can discard up to 5 talents per run so they stop showing up.
 
