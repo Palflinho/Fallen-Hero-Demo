@@ -7,7 +7,7 @@ labels: feedback
 
 **Version** (bottom-right corner of the title screen):
 
-**Hero you played:** Rhino Knight / Fox Mage / Tegu Archer / Urutau Assassin
+**Hero you played:** Armadillo Knight / Maned Wolf Mage / Tegu Archer / Urutau Assassin
 
 **How far did you get?** (e.g. died in the arena, beat the Water General)
 
